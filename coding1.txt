@@ -1,4 +1,4 @@
-baris 11
 baris 210
+baris 110
 perubaha1
 perubahan2
